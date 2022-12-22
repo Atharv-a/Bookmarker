@@ -4,7 +4,7 @@
     "name":"Bookmarker",
     "action":{
         "default_popup":"popup.html",
-        "default_icon":"bookmark.png"
+        "default_icon":"imag.png"
     },
     "permissions":["tabs"]
     
