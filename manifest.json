@@ -1,0 +1,11 @@
+{
+    "manifest_version":3,
+    "version":"1.0.0",
+    "name":"Bookmarker",
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"bookmark.png"
+    },
+    "permissions":["tabs"]
+    
+}
