@@ -7,8 +7,8 @@ Single click save tab to store the tab you are currently on.
 
 Type website in input box and click on save website to store data given as input.
 
-![Screenshot from 2023-04-26 15-13-06](https://user-images.githubusercontent.com/95877070/234545234-431aef9b-3a73-4e16-9f3c-df98f47749d2.png)
+![Screenshot from 2023-09-04 17-43-03](https://github.com/Atharv-a/Bookmarker/assets/95877070/958982ac-65fd-45d8-bcaf-fab89e6afd72)
 
 Double click delete all button to delete all stored data.
 
-![Screenshot from 2023-04-26 15-14-04](https://user-images.githubusercontent.com/95877070/234545276-5448ec30-e6d3-4867-8ffc-4f03d38703d0.png)
+![Screenshot from 2023-09-04 17-43-28](https://github.com/Atharv-a/Bookmarker/assets/95877070/76ad41a0-75e6-4845-8a05-7c581693729f)
