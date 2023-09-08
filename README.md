@@ -1,5 +1,5 @@
 # Bookmarker
-##Chrome extension that stores website and tabs which can be accessed in future.
+## Chrome extension that stores website and tabs which can be accessed in future.
 - **Chrome Extension: "Bookmarker"**
    - Developed a user-friendly Chrome extension to assist users in bookmarking their favorite websites.
    -  using Chrome's Manifest V3 for enhanced security and performance.
