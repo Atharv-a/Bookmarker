@@ -7,9 +7,9 @@
   - Configured the popup action to trigger a user-friendly interface for bookmark interactions.
   - Utilized Chrome's tabs permission to gain access to the user's active tab information.
 - User Interface (popup.html)
-  - Designed an interactive popup window for users to manually input website URLs or save their current tab's URL.
-  - Incorporated options for users to either save their input, save the current tab's URL, or delete all saved bookmarks.
-  - Ensured the user interface was intuitive and straightforward, displaying all saved bookmarks in a list format.
+   - Designed an interactive popup window for users to manually input website URLs or save their current tab's URL.
+   - Incorporated options for users to either save their input, save the current tab's URL, or delete all saved bookmarks.
+   - Ensured the user interface was intuitive and straightforward, displaying all saved bookmarks in a list format.
 - Styling and Presentation (style.css)
   - Adopted a clean and modern design with a predominant color scheme of green (#5f9341) to ensure a pleasing user experience.
   - Implemented responsive design features ensuring consistent appearance across different window sizes.
