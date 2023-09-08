@@ -21,7 +21,7 @@
   - Enabled a double-click event listener on the "Delete All" button to clear all bookmarks, providing an extra layer of protection against accidental data deletion.
   - Ensured the extension does not store empty URLs by incorporating data validation checks.
 ---
-- Single click save tab to store the tab you are currently on.
+Single click save tab to store the tab you are currently on.
 
 ![Screenshot from 2023-04-26 15-11-44](https://user-images.githubusercontent.com/95877070/234545481-98badb17-404e-4e04-8fb9-4cb08462b500.png)
 
